@@ -1,5 +1,5 @@
 rootProject.name = 'multi-modules-template'
 include 'module-common'
-include 'moudle-api'
 include 'module-batch'
+include 'module-api'
 
